@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
-categories: journal
+title: "Sobre el autor"
+author: "Rodrigo"
+categories: Viajes
 tags: [documentation,sample]
 image: cutting.jpg
 ---
