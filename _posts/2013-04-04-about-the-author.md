@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sobre el autor"
+title: "Nissan Skyline R34"
 author: "Rodrigo"
 categories: Viajes
 tags: [documentation,sample]
