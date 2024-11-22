@@ -4,9 +4,7 @@ title: "Toyota Supra"
 author: "Rodrigo"
 categories: Coches
 tags: [documentation,sample]
+image: supra.jpg
 ---
-<figure>
-<img src='/assets/img/supra.jpg'>
-</figure>
 
 Un coche japones de los que ya no fabrican.
